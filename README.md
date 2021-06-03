@@ -1,7 +1,7 @@
 ### Unity Game
 # Roller-madness-game
 ## About Roller-madness
-This is a single player shooting game in which you have to shoot box green box to score positive points and if you shoot red bocks then score negative points and if you hit white box then the game time will increase.
+This is a single player arcade game in which you have to collect coins within given time period and keep in mind to not collide with jumping box, as they are enemy. You can also used fixed box to collide with them and increase your speed.
 ## Skills used
 - Unity3D
 - C#
