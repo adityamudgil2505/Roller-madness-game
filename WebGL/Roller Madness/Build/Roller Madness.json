@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Roller Madness.data.unityweb",
+"asmCodeUrl": "Roller Madness.asm.code.unityweb",
+"asmMemoryUrl": "Roller Madness.asm.memory.unityweb",
+"asmFrameworkUrl": "Roller Madness.asm.framework.unityweb",
+"backgroundUrl": "Roller Madness.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
